@@ -1,0 +1,17 @@
+{
+  "student": {
+    "product_list": [
+      {
+        "keyword_name": "ELS",
+        "keyword_info": {
+          "keywordId": 1,
+          "keyword_name": "ELS",
+          "relavant_product": "확.실.한 원금보장상품을 원한다면?",
+          "recommend_phrase": "원금보장상품",
+          "createdDate": null,
+          "modifiedDate": null
+        }
+      }
+    ]
+  }
+}

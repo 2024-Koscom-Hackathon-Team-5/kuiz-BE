@@ -1,0 +1,41 @@
+{
+  "keyword":{
+    "keyword_name": "ELS",
+    "keyword_info": {
+      "keywordId": 1,
+      "keyword_name": "ELS",
+      "relavant_product": "확.실.한 원금보장상품을 원한다면?",
+      "recommend_phrase": "원금보장상품",
+      "createdDate": null,
+      "modifiedDate": null
+    }
+  },
+  "quiz":{
+    "id": 1,
+    "quiz_name" : "ELS는 무엇의 약자인가요?",
+    "choice_num": 3,
+    "answer": "a)",
+    "commentary": "ELS 는 고위험 상품 중 하나로 간주됩니다. ELS 는 기본 주가나...",
+    "choices": [
+      {
+        "id": 1,
+        "choice_number": "a)",
+        "choice": "Equity Linked Security",
+        "isAnswer": "True"
+      },
+      {
+        "id": 2,
+        "choice_number": "b)",
+        "choice": "Economic Leverage System",
+        "isAnswer": "False"
+      },
+      {
+        "id": 3,
+        "choice_number": "c)",
+        "choice": "Efficient Loan Strategy",
+        "isAnswer": "False"
+      }
+    ]
+  }
+}
+

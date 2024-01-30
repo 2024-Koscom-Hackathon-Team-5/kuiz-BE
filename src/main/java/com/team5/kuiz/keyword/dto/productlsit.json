@@ -1,0 +1,42 @@
+{
+  "keyword":{
+    "keyword_name": "ELS",
+    "keyword_info": {
+      "keywordId": 1,
+      "keyword_name": "ELS",
+      "relavant_product": "확.실.한 원금보장상품을 원한다면?",
+      "recommend_phrase": "원금보장상품",
+      "createdDate": null,
+      "modifiedDate": null
+    }
+  },
+  "product_list": [
+    {
+      "id": 1,
+      "product_name" : "KB국민행복적금",
+      "firm": "KB국민은행",
+      "period": 12,
+      "interest_max": 5.45,
+      "interest_min": 3.55,
+      "product_url": "https://obank.kbstar.com/quics?page=C016613&cc=b061496:b061645&브랜드상품코드=DP01000472&노드코드=00007&prcode=DP01000472#loading",
+    },
+    {
+      "id": 2,
+      "product_name" : "우리나라사랑적금",
+      "firm": "우리",
+      "period": 24,
+      "interest_max": 3.45,
+      "interest_min": 1.55,
+      "product_url": "https://obank.kbstar.com/quics?page=C016613&cc=b061496:b061645&브랜드상품코드=DP01000472&노드코드=00007&prcode=DP01000472#loading",
+    },
+    {
+      "id": 3,
+      "product_name" : "KB국민행복적금",
+      "firm": "KB국민은행",
+      "period": 12,
+      "interest_max": 5.45,
+      "interest_min": 3.55,
+      "product_url": "https://obank.kbstar.com/quics?page=C016613&cc=b061496:b061645&브랜드상품코드=DP01000472&노드코드=00007&prcode=DP01000472#loading",
+    }
+  ]
+}
